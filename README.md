@@ -1,11 +1,19 @@
-#HHappy
+#Happy
+
+Como utilizar?
+Clone o repositório;
+Entre na pasta da API e do ambiente desejado:
+cd api/ | cd web/ ou cd mobile/
+Instale as dependências em cada uma das duas
+yarn install ou npm i
+Use através do comando yarn start ou npm start !
+
 Primeiro Projeto 2021 da Next level week " Happy Leve felicidade para o Mundo"
 
 
-Tecnologias   |    Projeto   |    Layout   |   
+          Tecnologias   |    Projeto   |    Layout   |   
 
 GitHub language count GitHub top language GitHub repo size GitHub last commit
-
 
 Happy
 
